@@ -12,6 +12,7 @@
 
 ### Картинки 
 
-![320px](../../320.png)
-![768px](../../768.png)
-![1280px](../../1280.png)
+![Байкал](./images/photo-grid-baikal.jpg)
+![Байкал2](./images/photo-grid-baikal-2.jpg)
+![Камчатка](./images/photo-grid-kamchatka-1.jpg)
+![Камчатка2](./images/photo-grid-kamchatka-2.jpg)
